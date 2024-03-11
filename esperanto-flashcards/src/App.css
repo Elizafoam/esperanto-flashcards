@@ -3,7 +3,6 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-  
 }
 
 .logo {
@@ -40,4 +39,29 @@
 
 .read-the-docs {
   color: #888;
+}
+
+.Card {
+  padding: 7em 2em;
+  background-color: rgb(255, 255, 255);
+  border-radius: 1px;
+  margin-bottom: 1em;
+}
+
+.Card:hover {
+  box-shadow: rgba(6, 6, 61, 0.604) 0px 5px 15px;
+  cursor: pointer;
+}
+
+.button {
+  margin: auto;
+  width: fit-content;
+  padding: 0.5em 1em;
+  border: 1px solid rgba(255, 255, 255, 0.658);
+  border-radius: 2px;
+}
+
+.button:hover {
+  box-shadow: rgba(255, 255, 255, 0.729) 0px 5px 15px;
+  
 }
