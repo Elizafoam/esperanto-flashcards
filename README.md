@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='/src/assets/flashcards.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='/esperanto-flashcards/src/assets/flashcards.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
  
 GIF created with LiceCap
 
