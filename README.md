@@ -38,7 +38,7 @@ GIF created with LiceCap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had a lot of issues with switching between the word itself and the translation. 
 
 ## License
 
